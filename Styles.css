@@ -27,3 +27,7 @@ section {
     margin-left: auto;
     margin-right: auto;
 }
+
+.darkfont {
+    color: black
+}
